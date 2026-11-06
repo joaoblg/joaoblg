@@ -1,4 +1,4 @@
-# Olá, sou o João Bernardo Libório Graça 👋
+# Hello, my name is João Bernardo Libório Graça 👋
 
 Final-year **Computer Engineering** student at **ISEC (Instituto Superior de Engenharia de Coimbra)**, specializing in **Application Development (DA)**.
 
