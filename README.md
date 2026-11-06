@@ -80,5 +80,5 @@ Passionate about building efficient software, systems architecture, concurrent p
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:**(https://www.linkedin.com/in/jo%C3%A3o-lib%C3%B3rio-dev/)
+- **LinkedIn:** [João Libório](https://www.linkedin.com/in/jo%C3%A3o-lib%C3%B3rio-dev/)
 - **Email:** jonygraca6@gmail.com
