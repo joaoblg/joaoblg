@@ -9,40 +9,48 @@ Passionate about building efficient software, systems architecture, concurrent p
 ### 🛠️ Tech Stack & Skills
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" />
       <br><sub>React</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" />
+      <br><sub>Node.js</sub>
+    </td>
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+      <br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=vite" width="44" height="44" alt="Vite" />
       <br><sub>Vite</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" />
       <br><sub>JavaScript</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=java" width="44" height="44" alt="Java" />
       <br><sub>Java</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=cpp" width="44" height="44" alt="C++" />
       <br><sub>C++</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=c" width="44" height="44" alt="C" />
       <br><sub>C</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" />
       <br><sub>Linux</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Win32" />
-      <br><sub>Win32 API</sub>
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=windows" width="44" height="44" alt="Win32" />
+      <br><sub>Win32</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" />
       <br><sub>Git</sub>
     </td>
   </tr>
@@ -51,6 +59,13 @@ Passionate about building efficient software, systems architecture, concurrent p
 ---
 
 ### 🚀 Featured Engineering Projects
+
+#### 🏠 [UniStay Coimbra - Geospatial University Housing Discovery](https://github.com/joaoblg/unistay-coimbra)
+*Full-stack geospatial web platform helping university students find rooms, suites, and studios within precise walking distance of Coimbra's university campuses.*
+* **Geospatial & Spatial Indexing:** Real GPS geodesic calculations with **PostGIS** (`ST_Distance` & `ST_DWithin` over `geography(Point, 4326)`) and **GIST spatial indexes** across 6 Coimbra campuses (ISEC, Polo 1, Polo 2, Polo 3, FEUC, ESEC).
+* **Interactive Geovisualization:** Full-screen **Leaflet & Google Maps** integration (Roadmap, Satellite Hybrid & OpenStreetMap switcher) with Airbnb-style dynamic price badges and bidirectional map-to-card synchronization.
+* **Stack:** `React 19` `Vite` `Node.js` `Express 5` `PostgreSQL 18` `PostGIS` `Leaflet` `Google Maps`
+
 #### 🟡 [Connect 4 (4 em Linha) Web Game](https://github.com/joaoblg/connect4-game)
 *Interactive single & multiplayer web board game built with **React 19** and bundled with **Vite**.*
 * **Features:** 1v1 local multiplayer and Singleplayer vs AI Bot, dynamic drop animations, special board cells, customizable player profiles, and deterministic 4-in-a-row algorithm.
